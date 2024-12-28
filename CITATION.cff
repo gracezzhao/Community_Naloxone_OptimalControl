@@ -1,8 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
+  - family-names: Grace
+    given-names: Zhao
+  - family-names: Castillo
+    given-names: Alejandra
   - family-names: Edholm
     given-names: Christina
-title: "SIR Parameter Estimation in MATLAB with Fmincon MultiStart Parallelization"
-date-released: 2024-2-25
-url: "https://github.com/cedholm/SIR-Parameter-Estimation-in-MATLAB-with-fmincon-MultiStart-Parallelization"
+title: "Optimal Control for the Opioid Epidemic Focused on Overdose Simulation in MATLAB"
+date-released: 2024-12-28
+url: "https://github.com/gracezzhao/Community_Naloxone_OptimalControl"
